@@ -1,7 +1,6 @@
 package br.com.alura.jpa.testes;
 
 import br.com.alura.jpa.modelo.Categoria;
-import br.com.alura.jpa.modelo.Conta;
 import br.com.alura.jpa.modelo.Movimentacao;
 
 import javax.persistence.EntityManager;
